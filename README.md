@@ -24,10 +24,11 @@ behavior, and presents everything through a dashboard a business manager could a
 - Executive business report for non-technical stakeholders
   
 ## 🖥️ Demo
+
 🚀 **Live Dashboard:**  
 https://sales-forecasting-demand-intelligence-system-byvarshi07.streamlit.app/
 
-The application is publicly deployed on **Streamlit Community Cloud**, allowing users to explore sales forecasting, anomaly detection, product demand segmentation, and interactive business insights in real time.
+    The application is publicly deployed on **Streamlit Community Cloud**, allowing users to explore sales forecasting, anomaly detection, product demand segmentation, and interactive business insights in real time.
 ---
 
 ## 📦 Dataset Sources
