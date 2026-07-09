@@ -57,7 +57,7 @@ behavior, and presents everything through a dashboard a business manager could a
 5. **Anomaly Detection** — Isolation Forest and rolling Z-Score methods, cross-compared
 6. **Product Demand Segmentation** — K-Means clustering (with elbow method + PCA visualization) into actionable stocking-strategy groups
 7. **Deployment** — the Streamlit dashboard in `app.py`
-8. **Executive Business Report** — `summary.docx`
+8. **Executive Business Report** — [summary.docx](summary.docx)
 
 ---
 
@@ -103,8 +103,8 @@ everything directly from `train.csv` (with caching), so it needs no other setup.
 
 ## 🛠 Tech Stack
 
-Python · Pandas · NumPy · Statsmodels (SARIMA & decomposition) · Prophet · XGBoost ·
-Scikit-learn (Isolation Forest, K-Means, PCA) · Matplotlib · Plotly · Streamlit
+`Python` · `Pandas` · `NumPy` · `Statsmodels (SARIMA & decomposition)` · `Prophet` · `XGBoost` ·
+`Scikit-learn`(Isolation Forest, K-Means, PCA) · `Matplotlib` · `Plotly` · `Streamlit`
 
 ---
 
@@ -127,9 +127,10 @@ a pull request, or just reach out directly.
 
 ---
 
-## ✍️ Author
+## 👤 Author
 
 **Varshitha Molabanti**
+🔗 Mail: [Gmail](varshithamolabanti7@gmail.com)
 🔗 LinkedIn: [linkedin.com/in/molabanti-varshitha-303271373](https://www.linkedin.com/in/molabanti-varshitha-303271373)
 
 ---
