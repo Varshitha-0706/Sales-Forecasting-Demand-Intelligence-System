@@ -135,7 +135,7 @@ a pull request, or just reach out directly.
 ## 👤 Author
 
 **Varshitha Molabanti**
-📧 **Email:** <varshithamolabanti7@gmail.com>
+📧  **Email:** [varshithamolabanti7@gmail.com](mailto:varshithamolabanti7@gmail.com)
 🔗  [linkedin](https://www.linkedin.com/in/molabanti-varshitha-303271373)
 
 ---
