@@ -14,7 +14,15 @@ system that predicts future demand, flags unusual sales patterns, segments produ
 behavior, and presents everything through a dashboard a business manager could act on.
 
 ---
+## ⭐ Project Highlights
 
+- End-to-end retail sales forecasting pipeline
+- Time-series forecasting using SARIMA, Prophet, and XGBoost
+- Product demand segmentation using K-Means Clustering
+- Sales anomaly detection using Isolation Forest and Z-Score
+- Interactive Streamlit dashboard
+- Executive business report for non-technical stakeholders
+  
 ## 🖥️ Demo
 
 **Dashboard (local):** [http://localhost:8501/](http://localhost:8501/)
@@ -130,8 +138,8 @@ a pull request, or just reach out directly.
 ## 👤 Author
 
 **Varshitha Molabanti**
-🔗 Mail: [Gmail](varshithamolabanti7@gmail.com)
-🔗 LinkedIn: [linkedin.com/in/molabanti-varshitha-303271373](https://www.linkedin.com/in/molabanti-varshitha-303271373)
+🔗  [gmail](varshithamolabanti7@gmail.com)
+🔗  [linkedin](https://www.linkedin.com/in/molabanti-varshitha-303271373)
 
 ---
 
